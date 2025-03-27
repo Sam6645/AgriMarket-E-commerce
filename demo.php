@@ -1,3 +1,3 @@
 <?php
-echo "My name is soon yong";
+echo "How are you";
 ?>
